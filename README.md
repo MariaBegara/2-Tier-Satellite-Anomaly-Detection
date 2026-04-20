@@ -43,7 +43,7 @@ to exist one level above the notebook directory:
 To reproduce the results:
 
 1. Download the telemanom dataset from
-   https://s3-us-west-2.amazonaws.com/telemanom/data.zip
+   https://www.kaggle.com/datasets/patrickfleith/nasa-anomaly-detection-dataset-smap-msl?resource=download
 2. Extract the archive in the parent directory following the structure above.
 
 ## Execution
